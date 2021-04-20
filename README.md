@@ -4,6 +4,7 @@ Just playing with code.
 
 There are still many things to do: 
  - error handling (add and fix);
+ - routing;
  - fix checking styling;
  - fix checking types;
  - cover with tests;
