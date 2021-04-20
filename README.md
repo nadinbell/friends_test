@@ -1,5 +1,6 @@
 # friends_test
-This is a very simple basic React app, using TypeScript and Redux
+This is a basic React app, using TypeScript and Redux. 
+Just playing with code.
 
 There are still many things to do: 
  - error handling (add and fix);
