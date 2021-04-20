@@ -1,0 +1,13 @@
+.searchWrapper {
+  padding: .5rem;
+  text-align: center;
+}
+
+.search {
+  padding: 1rem;
+  background-color: #cdecff;
+  border-color: #19a974;
+  border-style: solid;
+  border-width: 1px;
+  outline-offset: -2px;
+}

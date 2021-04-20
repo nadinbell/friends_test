@@ -1,0 +1,6 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 200;
+  color: #000000;
+  background: linear-gradient(to right, rgb(255, 255, 255) 0%, rgb(118, 74, 188) 100%);
+}
